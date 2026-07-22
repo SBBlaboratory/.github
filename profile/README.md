@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Systems Biology & Bioinformatics Laboratory (SBBL)
+# Systems Biology & Bioinformatics Laboratory (SBBL)
 
 ### Multi-omics • Artificial Intelligence • Computational Biology
 
