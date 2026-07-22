@@ -68,10 +68,16 @@ genome, epigenome, and cellular heterogeneity.
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
 ![LLM](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-512DA8?style=flat-square)
 
 **Bioinformatics**
 
-Seurat • Scanpy • Bioconductor
+![Seurat](https://img.shields.io/badge/Seurat-4E79A7?style=flat-square)
+![Scanpy](https://img.shields.io/badge/Scanpy-1F77B4?style=flat-square)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-009973?style=flat-square)
+![AnnData](https://img.shields.io/badge/AnnData-43A047?style=flat-square)
+![Single-cell](https://img.shields.io/badge/Single--cell-00838F?style=flat-square)
 
 **Infrastructure**
 
