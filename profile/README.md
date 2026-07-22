@@ -22,6 +22,7 @@ genome, epigenome, and cellular heterogeneity.
 
 - Single-cell RNA-seq
 - Single-cell Epigenomics
+- Strand-seq
 - Spatial Transcriptomics
 - Multi-omics Integration
 
@@ -30,11 +31,12 @@ genome, epigenome, and cellular heterogeneity.
 - Machine Learning
 - Deep Learning
 - Foundation Models for Biology
-- Large Language Models (LLMs)
+- Large Language Models (LLMs) for Biology
 
 🧪 **Computational Genomics**
 
 - Somatic Mosaicism
+- Structural Variant
 - Genome Instability
 - Aging
 - Cancer Evolution
