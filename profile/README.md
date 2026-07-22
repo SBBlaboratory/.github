@@ -9,8 +9,8 @@
 
 ---
 
-Developing computational methods and AI models to understand
-genome, epigenome, and cellular heterogeneity from multi-omics data.
+Analyzing Multi-Omics and Developing computational methods to understand
+genome, epigenome, and cellular heterogeneity.
 
 </div>
 
