@@ -67,6 +67,7 @@ genome, epigenome, and cellular heterogeneity.
 ![LangGraph](https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
+![LLM](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=flat-square)
 
 **Bioinformatics**
 
