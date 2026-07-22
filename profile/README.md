@@ -27,11 +27,10 @@ genome, epigenome, and cellular heterogeneity from multi-omics data.
 
 🤖 **Artificial Intelligence for Biology**
 
-- Large Language Models (LLMs)
 - Machine Learning
 - Deep Learning
-- Graph-based Learning
 - Foundation Models for Biology
+- Large Language Models (LLMs)
 
 🧪 **Computational Genomics**
 
@@ -47,10 +46,9 @@ genome, epigenome, and cellular heterogeneity from multi-omics data.
 
 | Project | Description |
 |---------|-------------|
-| **CellTyper** | LLM-powered cell type annotation framework |
-| **GeneDB** | High-speed biological knowledge database for LLM agents |
+| **CellTyper** | LLM-based cell-type annotation agent |
 | **GeneTriever** | Retrieval system for gene-centric biological knowledge |
-| **scNOVA-related tools** | Single-cell nucleosome occupancy analysis |
+| **scNOVA-related tools** | Single-cell nucleosome occupancy analysis with Strand-seq |
 | **Multi-omics pipelines** | End-to-end analysis workflows |
 
 ---
@@ -59,7 +57,7 @@ genome, epigenome, and cellular heterogeneity from multi-omics data.
 
 **Languages**
 
-Python • R • C/C++
+Python • R
 
 **AI**
 
@@ -83,8 +81,6 @@ Docker • Linux • GitHub Actions
 - Computational Genomics
 - Cancer Evolution
 - Aging
-- Explainable AI
-- LLM Agents for Biology
 
 ---
 
