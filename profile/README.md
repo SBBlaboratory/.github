@@ -107,6 +107,6 @@ Contributions, issues, and discussions are always welcome.
 
 <div align="center">
 
-### Building AI for Biology 🧬
+### MultiOmics to link genome & epigenome
 
 </div>
