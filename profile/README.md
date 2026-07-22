@@ -46,9 +46,9 @@ genome, epigenome, and cellular heterogeneity.
 
 | Project | Description |
 |---------|-------------|
+| **scNOVA-related tools** | Single-cell nucleosome occupancy analysis with Strand-seq |
 | **CellTyper** | LLM-based cell-type annotation agent |
 | **GeneTriever** | Retrieval system for gene-centric biological knowledge |
-| **scNOVA-related tools** | Single-cell nucleosome occupancy analysis with Strand-seq |
 | **Multi-omics pipelines** | End-to-end analysis workflows |
 
 ---
