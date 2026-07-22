@@ -62,7 +62,10 @@ genome, epigenome, and cellular heterogeneity.
 
 **AI**
 
-PyTorch • Transformers • LangGraph • OpenAI API
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Bioinformatics**
 
