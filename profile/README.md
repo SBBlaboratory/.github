@@ -50,7 +50,6 @@ genome, epigenome, and cellular heterogeneity.
 |---------|-------------|
 | **scNOVA-related tools** | Single-cell nucleosome occupancy analysis with Strand-seq |
 | **CellTyper** | LLM-based cell-type annotation agent |
-| **GeneTriever** | Retrieval system for gene-centric biological knowledge |
 | **Multi-omics pipelines** | End-to-end analysis workflows |
 
 ---
